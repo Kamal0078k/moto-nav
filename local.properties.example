@@ -1,0 +1,6 @@
+# Copy this setting into the ignored mobile-app/local.properties only after
+# confirming eligible India pricing, enabling Routes API and Places API (New),
+# setting the Routes API daily quota to 200, and restricting the key to those
+# APIs plus this Android app. Billing is required even while usage remains
+# inside a free usage cap. Never commit or share a real API key.
+google.mapsApiKey=
